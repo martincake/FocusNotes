@@ -19,4 +19,5 @@
 * Также сохранять все заметки между сеансами.
 
 
-## [Демонстрация функционала](https://i.imgur.com/UAXxI1O.mp4)
+## [Демонстрация функционала:](https://i.imgur.com/UAXxI1O.mp4)
+![Gif](https://github.com/martincake/FocusNotes/blob/c9cafaced31187b2e5c33c02054fd951b1759494/ReadmeAssets/demonstration.gif)
